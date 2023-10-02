@@ -19,5 +19,5 @@ algunas estadísticas.
 
 ##  Diagrama de Flujo   
 
-![Diagrama de flujo]()
+![Diagrama de flujo](https://github.com/Diana03m/DEV009-md-links/blob/main/DiagramaDiana.jpg)
 
